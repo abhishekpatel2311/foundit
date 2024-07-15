@@ -1,0 +1,57 @@
+name: foundit
+description: "A new Flutter project."
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  font_awesome_flutter:
+  flutter_svg:
+  firebase_auth:
+  firebase_core:
+  cloud_firestore:
+  google_sign_in:
+  provider:
+  flutter_map:
+  image_picker:
+  firebase_storage:
+  flutter_share:
+  fluttertoast:
+  geolocator:
+  latlong2:
+  flutter_map_cancellable_tile_provider:
+  firebase_messaging:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/bottom_bar/
+    - assets/images/login_and_signup/
+  fonts :
+    - family: Poppins
+      fonts :
+        - asset: assets/fonts/Poppins-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-ExtraBold.ttf
+          weight: 800
