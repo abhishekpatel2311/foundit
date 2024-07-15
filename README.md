@@ -16,5 +16,5 @@ Leveraging Firebase, Foundit ensures secure storage of user data, item details, 
 
 <a href="url"><img src="https://github.com/purvangpatel03/FoundIt/blob/main/assets/chat_page.png" align="left" width="160" ></a>
 
-<a href="url"><img src="https://github.com/purvangpatel03/FoundIt/blob/main/assets/profile_page.png" align="left" width="160" ></a>
+
 
